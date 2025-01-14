@@ -1,5 +1,5 @@
 [
-      { "name": "South Callaway County R-II", "tax": 2.75 },
+      { "name": "S Callaway County R-II", "tax": 2.75 },
       { "name": "Morgan County R-II", "tax": 2.91 },
       { "name": "Macon County R-I", "tax": 3.48 },
       { "name": "Smithton R-VI", "tax": 3.63 },
@@ -34,8 +34,8 @@
       { "name": "Mexico 59", "tax": 4.62 },
       { "name": "Fulton 58", "tax": 4.65 },
       { "name": "Clarksburg C-2", "tax": 4.66 },
-      { "name": "Northeast Randolph County R-IV", "tax": 4.68 },
-      { "name": "North Callaway County R-I", "tax": 4.68 },
+      { "name": "NE Randolph County R-IV", "tax": 4.68 },
+      { "name": "N Callaway County R-I", "tax": 4.68 },
       { "name": "Jefferson City", "tax": 4.76 },
       { "name": "Glasgow", "tax": 4.77 },
       { "name": "Monroe City R-I", "tax": 4.78 },
